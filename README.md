@@ -1,4 +1,4 @@
-# De-Novo-Generation-of-molecules-using-graph-ga-and-gflownet
+# molecular generation
 
 A **graph-based genetic algorithm** (GraphGA) is a variation of a genetic algorithm (GA) that operates on molecular graphs rather than traditional linear representations (like SMILES). It combines the principles of genetic algorithms—such as evolution through selection, mutation, and crossover—with the graph-based representation of molecules, where atoms are nodes and bonds are edges in a graph. 
 

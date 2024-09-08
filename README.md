@@ -1,6 +1,6 @@
 # molecular generation
 
-A **graph-based genetic algorithm** (GraphGA) is a variation of a genetic algorithm (GA) that operates on molecular graphs rather than traditional linear representations (like SMILES). It combines the principles of genetic algorithms—such as evolution through selection, mutation, and crossover—with the graph-based representation of molecules, where atoms are nodes and bonds are edges in a graph. 
+**GraphGA** (graph-based genetic algorithm) is a variation of a genetic algorithm (GA) that operates on molecular graphs rather than traditional linear representations (like SMILES). It combines the principles of genetic algorithms—such as evolution through selection, mutation, and crossover—with the graph-based representation of molecules, where atoms are nodes and bonds are edges in a graph. 
 
 **GFlowNet** (Generative Flow Networks) is an emerging framework designed for generating complex objects (like molecules) by learning probabilistic models of sequences of actions that construct those objects. When applied to fragment-based molecular design, GFlowNet becomes a powerful tool for efficiently navigating and constructing molecules by assembling them from smaller fragments, with the goal of optimizing certain desired properties (e.g., binding affinity, drug-likeness).
 
